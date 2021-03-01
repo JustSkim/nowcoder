@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<iostream>
-#include<math.h>
+#include<math.h>//pow(底数,幂次方)函数 
 using namespace std;
 /*
 素数判定
